@@ -2,7 +2,9 @@
   "config": {
     "error": {
       "search_required": "Inserisci una squadra o un atleta da cercare.",
-      "no_competitors_found": "Nessun partecipante corrispondente trovato nello sport selezionato."
+      "no_competitors_found": "Nessun partecipante corrispondente trovato nello sport selezionato.",
+      "sportsdb_team_required": "Inserisci un nome squadra TheSportsDB o un ID squadra numerico.",
+      "sportsdb_no_teams_found": "TheSportsDB non ha restituito alcuna squadra corrispondente."
     },
     "step": {
       "user": {
@@ -43,6 +45,22 @@
           "conference_id": "Numero conference (facoltativo)",
           "name": "Nome descrittivo (facoltativo)"
         }
+      },
+      "sportsdb": {
+        "title": "TheSportsDB",
+        "description": "Crea un sensore TheSportsDB autonomo. Inserisci un ID squadra numerico per la ricerca gratuita oppure cerca per nome della squadra. L’API gratuita offre risultati limitati per la ricerca per nome e il calendario; i sostenitori possono inserire la propria chiave API.",
+        "data": {
+          "sportsdb_api_key": "Chiave API TheSportsDB (facoltativo)",
+          "search_team": "Cerca nome squadra (facoltativo)",
+          "team_id": "ID squadra (facoltativo)"
+        }
+      },
+      "sportsdb_select_team": {
+        "title": "Seleziona squadra TheSportsDB",
+        "description": "Scegli la squadra da seguire.",
+        "data": {
+          "team_selection": "Squadra"
+        }
       }
     }
   },
@@ -61,7 +79,8 @@
         "soccer": "Calcio",
         "tennis": "Tennis",
         "volleyball": "Volleyball",
-        "custom_api": "Avanzate / API personalizzata"
+        "custom_api": "Avanzate / API personalizzata",
+        "sportsdb": "TheSportsDB"
       }
     },
     "competition": {
@@ -76,7 +95,9 @@
         "title": "Opzioni Team Tracker",
         "description": "Inserisci il codice lingua di 2 caratteri per le chiamate API ESPN.",
         "data": {
-          "api_language": "Lingua API"
+          "api_language": "Lingua API",
+          "sportsdb_api_key": "Nuova chiave API TheSportsDB (lascia vuoto per mantenere quella attuale)",
+          "sportsdb_clear_api_key": "Usa la chiave gratuita TheSportsDB (rimuovi la chiave sostenitore salvata)"
         }
       }
     }

@@ -2,7 +2,9 @@
   "config": {
     "error": {
       "search_required": "הזן קבוצה או ספורטאי לחיפוש.",
-      "no_competitors_found": "לא נמצאה קבוצה או ספורטאי תואמים בענף שנבחר."
+      "no_competitors_found": "לא נמצאה קבוצה או ספורטאי תואמים בענף שנבחר.",
+      "sportsdb_team_required": "Enter a TheSportsDB team name or numeric Team ID.",
+      "sportsdb_no_teams_found": "No matching team was returned by TheSportsDB."
     },
     "step": {
       "user": {
@@ -43,6 +45,22 @@
           "conference_id": "מספר קונפרנס (אופציונלי)",
           "name": "שם ידידותי (אופציונלי)"
         }
+      },
+      "sportsdb": {
+        "title": "TheSportsDB",
+        "description": "Create a standalone TheSportsDB sensor. Enter a numeric Team ID for free lookup, or search by team name. The free API has limited name-search and schedule results; supporters can enter their API key.",
+        "data": {
+          "sportsdb_api_key": "TheSportsDB API key (optional)",
+          "search_team": "Search team name (optional)",
+          "team_id": "Team ID (optional)"
+        }
+      },
+      "sportsdb_select_team": {
+        "title": "Select TheSportsDB Team",
+        "description": "Choose the team to track.",
+        "data": {
+          "team_selection": "Team"
+        }
       }
     }
   },
@@ -61,7 +79,8 @@
         "soccer": "כדורגל",
         "tennis": "טניס",
         "volleyball": "כדורעף",
-        "custom_api": "מתקדם / API מותאם אישית"
+        "custom_api": "מתקדם / API מותאם אישית",
+        "sportsdb": "TheSportsDB"
       }
     },
     "competition": {
@@ -76,7 +95,9 @@
         "title": "אפשרויות Team Tracker",
         "description": "הזן קוד שפה בן 2 תווים לשימוש בקריאות ESPN API.",
         "data": {
-          "api_language": "שפת API"
+          "api_language": "שפת API",
+          "sportsdb_api_key": "New TheSportsDB API key (leave blank to keep current)",
+          "sportsdb_clear_api_key": "Use free TheSportsDB key (remove saved supporter key)"
         }
       }
     }

@@ -2,7 +2,9 @@
   "config": {
     "error": {
       "search_required": "Adj meg egy csapatot vagy sportolót a kereséshez.",
-      "no_competitors_found": "Nem található megfelelő csapat vagy sportoló a kiválasztott sportágban."
+      "no_competitors_found": "Nem található megfelelő csapat vagy sportoló a kiválasztott sportágban.",
+      "sportsdb_team_required": "Enter a TheSportsDB team name or numeric Team ID.",
+      "sportsdb_no_teams_found": "No matching team was returned by TheSportsDB."
     },
     "step": {
       "user": {
@@ -43,6 +45,22 @@
           "conference_id": "Konferencia száma (opcionális)",
           "name": "Barátságos név (opcionális)"
         }
+      },
+      "sportsdb": {
+        "title": "TheSportsDB",
+        "description": "Create a standalone TheSportsDB sensor. Enter a numeric Team ID for free lookup, or search by team name. The free API has limited name-search and schedule results; supporters can enter their API key.",
+        "data": {
+          "sportsdb_api_key": "TheSportsDB API key (optional)",
+          "search_team": "Search team name (optional)",
+          "team_id": "Team ID (optional)"
+        }
+      },
+      "sportsdb_select_team": {
+        "title": "Select TheSportsDB Team",
+        "description": "Choose the team to track.",
+        "data": {
+          "team_selection": "Team"
+        }
       }
     }
   },
@@ -61,7 +79,8 @@
         "soccer": "Labdarúgás",
         "tennis": "Tenisz",
         "volleyball": "Röplabda",
-        "custom_api": "Speciális / Egyéni API"
+        "custom_api": "Speciális / Egyéni API",
+        "sportsdb": "TheSportsDB"
       }
     },
     "competition": {
@@ -76,7 +95,9 @@
         "title": "Team Tracker beállítások",
         "description": "Add meg az ESPN API-hívásokhoz használandó kétkarakteres nyelvi kódot.",
         "data": {
-          "api_language": "API nyelve"
+          "api_language": "API nyelve",
+          "sportsdb_api_key": "New TheSportsDB API key (leave blank to keep current)",
+          "sportsdb_clear_api_key": "Use free TheSportsDB key (remove saved supporter key)"
         }
       }
     }

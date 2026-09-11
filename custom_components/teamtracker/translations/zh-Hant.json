@@ -2,7 +2,9 @@
   "config": {
     "error": {
       "search_required": "請輸入要搜尋的球隊或運動員。",
-      "no_competitors_found": "在所選運動項目中找不到符合的參賽者。"
+      "no_competitors_found": "在所選運動項目中找不到符合的參賽者。",
+      "sportsdb_team_required": "Enter a TheSportsDB team name or numeric Team ID.",
+      "sportsdb_no_teams_found": "No matching team was returned by TheSportsDB."
     },
     "step": {
       "user": {
@@ -43,6 +45,22 @@
           "conference_id": "聯盟編號（選填）",
           "name": "顯示名稱（選填）"
         }
+      },
+      "sportsdb": {
+        "title": "TheSportsDB",
+        "description": "Create a standalone TheSportsDB sensor. Enter a numeric Team ID for free lookup, or search by team name. The free API has limited name-search and schedule results; supporters can enter their API key.",
+        "data": {
+          "sportsdb_api_key": "TheSportsDB API key (optional)",
+          "search_team": "Search team name (optional)",
+          "team_id": "Team ID (optional)"
+        }
+      },
+      "sportsdb_select_team": {
+        "title": "Select TheSportsDB Team",
+        "description": "Choose the team to track.",
+        "data": {
+          "team_selection": "Team"
+        }
       }
     }
   },
@@ -61,7 +79,8 @@
         "soccer": "足球",
         "tennis": "Tennis",
         "volleyball": "Volleyball",
-        "custom_api": "進階 / 自訂 API"
+        "custom_api": "進階 / 自訂 API",
+        "sportsdb": "TheSportsDB"
       }
     },
     "competition": {
@@ -76,7 +95,9 @@
         "title": "Team Tracker 選項",
         "description": "輸入 ESPN API 呼叫使用的 2 字元語言代碼。",
         "data": {
-          "api_language": "API 語言"
+          "api_language": "API 語言",
+          "sportsdb_api_key": "New TheSportsDB API key (leave blank to keep current)",
+          "sportsdb_clear_api_key": "Use free TheSportsDB key (remove saved supporter key)"
         }
       }
     }

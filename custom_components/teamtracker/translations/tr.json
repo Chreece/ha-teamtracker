@@ -2,7 +2,9 @@
   "config": {
     "error": {
       "search_required": "Aramak için bir takım veya sporcu girin.",
-      "no_competitors_found": "Seçilen sporda eşleşen bir katılımcı bulunamadı."
+      "no_competitors_found": "Seçilen sporda eşleşen bir katılımcı bulunamadı.",
+      "sportsdb_team_required": "Enter a TheSportsDB team name or numeric Team ID.",
+      "sportsdb_no_teams_found": "No matching team was returned by TheSportsDB."
     },
     "step": {
       "user": {
@@ -43,6 +45,22 @@
           "conference_id": "Conference numarası (isteğe bağlı)",
           "name": "Görünen ad (isteğe bağlı)"
         }
+      },
+      "sportsdb": {
+        "title": "TheSportsDB",
+        "description": "Create a standalone TheSportsDB sensor. Enter a numeric Team ID for free lookup, or search by team name. The free API has limited name-search and schedule results; supporters can enter their API key.",
+        "data": {
+          "sportsdb_api_key": "TheSportsDB API key (optional)",
+          "search_team": "Search team name (optional)",
+          "team_id": "Team ID (optional)"
+        }
+      },
+      "sportsdb_select_team": {
+        "title": "Select TheSportsDB Team",
+        "description": "Choose the team to track.",
+        "data": {
+          "team_selection": "Team"
+        }
       }
     }
   },
@@ -61,7 +79,8 @@
         "soccer": "Futbol",
         "tennis": "Tennis",
         "volleyball": "Volleyball",
-        "custom_api": "Gelişmiş / Özel API"
+        "custom_api": "Gelişmiş / Özel API",
+        "sportsdb": "TheSportsDB"
       }
     },
     "competition": {
@@ -76,7 +95,9 @@
         "title": "Team Tracker seçenekleri",
         "description": "ESPN API çağrıları için 2 karakterli dil kodunu girin.",
         "data": {
-          "api_language": "API dili"
+          "api_language": "API dili",
+          "sportsdb_api_key": "New TheSportsDB API key (leave blank to keep current)",
+          "sportsdb_clear_api_key": "Use free TheSportsDB key (remove saved supporter key)"
         }
       }
     }

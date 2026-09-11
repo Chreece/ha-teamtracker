@@ -2,7 +2,9 @@
   "config": {
     "error": {
       "search_required": "검색할 팀 또는 선수를 입력하세요.",
-      "no_competitors_found": "선택한 종목에서 일치하는 참가자를 찾지 못했습니다."
+      "no_competitors_found": "선택한 종목에서 일치하는 참가자를 찾지 못했습니다.",
+      "sportsdb_team_required": "Enter a TheSportsDB team name or numeric Team ID.",
+      "sportsdb_no_teams_found": "No matching team was returned by TheSportsDB."
     },
     "step": {
       "user": {
@@ -43,6 +45,22 @@
           "conference_id": "컨퍼런스 번호(선택 사항)",
           "name": "표시 이름(선택 사항)"
         }
+      },
+      "sportsdb": {
+        "title": "TheSportsDB",
+        "description": "Create a standalone TheSportsDB sensor. Enter a numeric Team ID for free lookup, or search by team name. The free API has limited name-search and schedule results; supporters can enter their API key.",
+        "data": {
+          "sportsdb_api_key": "TheSportsDB API key (optional)",
+          "search_team": "Search team name (optional)",
+          "team_id": "Team ID (optional)"
+        }
+      },
+      "sportsdb_select_team": {
+        "title": "Select TheSportsDB Team",
+        "description": "Choose the team to track.",
+        "data": {
+          "team_selection": "Team"
+        }
       }
     }
   },
@@ -61,7 +79,8 @@
         "soccer": "축구",
         "tennis": "Tennis",
         "volleyball": "Volleyball",
-        "custom_api": "고급 / 사용자 지정 API"
+        "custom_api": "고급 / 사용자 지정 API",
+        "sportsdb": "TheSportsDB"
       }
     },
     "competition": {
@@ -76,7 +95,9 @@
         "title": "Team Tracker 옵션",
         "description": "ESPN API 호출에 사용할 2자 언어 코드를 입력하세요.",
         "data": {
-          "api_language": "API 언어"
+          "api_language": "API 언어",
+          "sportsdb_api_key": "New TheSportsDB API key (leave blank to keep current)",
+          "sportsdb_clear_api_key": "Use free TheSportsDB key (remove saved supporter key)"
         }
       }
     }

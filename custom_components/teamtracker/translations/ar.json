@@ -2,7 +2,9 @@
   "config": {
     "error": {
       "search_required": "أدخل فريقًا أو رياضيًا للبحث عنه.",
-      "no_competitors_found": "لم يتم العثور على مشارك مطابق في الرياضة المحددة."
+      "no_competitors_found": "لم يتم العثور على مشارك مطابق في الرياضة المحددة.",
+      "sportsdb_team_required": "Enter a TheSportsDB team name or numeric Team ID.",
+      "sportsdb_no_teams_found": "No matching team was returned by TheSportsDB."
     },
     "step": {
       "user": {
@@ -43,6 +45,22 @@
           "conference_id": "رقم المؤتمر (اختياري)",
           "name": "اسم مألوف (اختياري)"
         }
+      },
+      "sportsdb": {
+        "title": "TheSportsDB",
+        "description": "Create a standalone TheSportsDB sensor. Enter a numeric Team ID for free lookup, or search by team name. The free API has limited name-search and schedule results; supporters can enter their API key.",
+        "data": {
+          "sportsdb_api_key": "TheSportsDB API key (optional)",
+          "search_team": "Search team name (optional)",
+          "team_id": "Team ID (optional)"
+        }
+      },
+      "sportsdb_select_team": {
+        "title": "Select TheSportsDB Team",
+        "description": "Choose the team to track.",
+        "data": {
+          "team_selection": "Team"
+        }
       }
     }
   },
@@ -61,7 +79,8 @@
         "soccer": "كرة القدم",
         "tennis": "Tennis",
         "volleyball": "Volleyball",
-        "custom_api": "متقدم / API مخصص"
+        "custom_api": "متقدم / API مخصص",
+        "sportsdb": "TheSportsDB"
       }
     },
     "competition": {
@@ -76,7 +95,9 @@
         "title": "خيارات Team Tracker",
         "description": "أدخل رمز اللغة المكون من حرفين لاستخدامه في استدعاءات ESPN API.",
         "data": {
-          "api_language": "لغة API"
+          "api_language": "لغة API",
+          "sportsdb_api_key": "New TheSportsDB API key (leave blank to keep current)",
+          "sportsdb_clear_api_key": "Use free TheSportsDB key (remove saved supporter key)"
         }
       }
     }

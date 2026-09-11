@@ -2,7 +2,9 @@
   "config": {
     "error": {
       "search_required": "検索するチームまたは選手を入力してください。",
-      "no_competitors_found": "選択したスポーツで一致するチームまたは選手が見つかりませんでした。"
+      "no_competitors_found": "選択したスポーツで一致するチームまたは選手が見つかりませんでした。",
+      "sportsdb_team_required": "Enter a TheSportsDB team name or numeric Team ID.",
+      "sportsdb_no_teams_found": "No matching team was returned by TheSportsDB."
     },
     "step": {
       "user": {
@@ -43,6 +45,22 @@
           "conference_id": "カンファレンス番号（任意）",
           "name": "表示名（任意）"
         }
+      },
+      "sportsdb": {
+        "title": "TheSportsDB",
+        "description": "Create a standalone TheSportsDB sensor. Enter a numeric Team ID for free lookup, or search by team name. The free API has limited name-search and schedule results; supporters can enter their API key.",
+        "data": {
+          "sportsdb_api_key": "TheSportsDB API key (optional)",
+          "search_team": "Search team name (optional)",
+          "team_id": "Team ID (optional)"
+        }
+      },
+      "sportsdb_select_team": {
+        "title": "Select TheSportsDB Team",
+        "description": "Choose the team to track.",
+        "data": {
+          "team_selection": "Team"
+        }
       }
     }
   },
@@ -61,7 +79,8 @@
         "soccer": "サッカー",
         "tennis": "Tennis",
         "volleyball": "Volleyball",
-        "custom_api": "詳細設定 / カスタム API"
+        "custom_api": "詳細設定 / カスタム API",
+        "sportsdb": "TheSportsDB"
       }
     },
     "competition": {
@@ -76,7 +95,9 @@
         "title": "Team Tracker オプション",
         "description": "ESPN API 呼び出しで使用する2文字の言語コードを入力します。",
         "data": {
-          "api_language": "API 言語"
+          "api_language": "API 言語",
+          "sportsdb_api_key": "New TheSportsDB API key (leave blank to keep current)",
+          "sportsdb_clear_api_key": "Use free TheSportsDB key (remove saved supporter key)"
         }
       }
     }
