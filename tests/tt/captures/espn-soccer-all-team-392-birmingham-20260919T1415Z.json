@@ -1,0 +1,1613 @@
+{
+  "team": {
+    "id": "392",
+    "uid": "s:600~t:392",
+    "slug": "eng.birmingham",
+    "location": "Birmingham City",
+    "name": "Birmingham City",
+    "nickname": "Blues",
+    "abbreviation": "BIR",
+    "displayName": "Birmingham City",
+    "shortDisplayName": "Birmingham",
+    "color": "0000fa",
+    "alternateColor": "fe5442",
+    "isActive": true,
+    "logos": [
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "lastUpdated": "2019-05-08T16:07Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/392.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "lastUpdated": "2019-05-08T16:07Z"
+      }
+    ],
+    "record": {
+      "items": [
+        {
+          "description": "Overall Record",
+          "type": "total",
+          "summary": "2-4-1",
+          "stats": [
+            {
+              "name": "gamesPlayed",
+              "value": 7.0
+            },
+            {
+              "name": "losses",
+              "value": 1.0
+            },
+            {
+              "name": "pointDifferential",
+              "value": 1.0
+            },
+            {
+              "name": "points",
+              "value": 10.0
+            },
+            {
+              "name": "pointsAgainst",
+              "value": 9.0
+            },
+            {
+              "name": "pointsFor",
+              "value": 10.0
+            },
+            {
+              "name": "streak",
+              "value": 0.0
+            },
+            {
+              "name": "ties",
+              "value": 4.0
+            },
+            {
+              "name": "wins",
+              "value": 2.0
+            },
+            {
+              "name": "advanced",
+              "value": 0.0
+            },
+            {
+              "name": "awayGamesPlayed",
+              "value": 4.0
+            },
+            {
+              "name": "awayLosses",
+              "value": 1.0
+            },
+            {
+              "name": "awayPointsAgainst",
+              "value": 4.0
+            },
+            {
+              "name": "awayPointsFor",
+              "value": 5.0
+            },
+            {
+              "name": "awayTies",
+              "value": 1.0
+            },
+            {
+              "name": "awayWins",
+              "value": 2.0
+            },
+            {
+              "name": "deductions",
+              "value": 0.0
+            },
+            {
+              "name": "homeGamesPlayed",
+              "value": 3.0
+            },
+            {
+              "name": "homeLosses",
+              "value": 0.0
+            },
+            {
+              "name": "homePointsAgainst",
+              "value": 5.0
+            },
+            {
+              "name": "homePointsFor",
+              "value": 5.0
+            },
+            {
+              "name": "homeTies",
+              "value": 3.0
+            },
+            {
+              "name": "homeWins",
+              "value": 0.0
+            },
+            {
+              "name": "ppg",
+              "value": 0.0
+            },
+            {
+              "name": "rank",
+              "value": 13.0
+            },
+            {
+              "name": "rankChange",
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "groups": {
+      "id": "1"
+    },
+    "links": [
+      {
+        "language": "en-US",
+        "rel": [
+          "clubhouse",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/club/_/id/392/birmingham-city",
+        "text": "Clubhouse",
+        "shortText": "Clubhouse",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "stats",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/team/stats/_/id/392/birmingham-city",
+        "text": "Stats",
+        "shortText": "Stats",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "stats",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=stats",
+        "text": "Stats",
+        "shortText": "Stats",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "schedule",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/team/fixtures/_/id/392/birmingham-city",
+        "text": "Fixtures",
+        "shortText": "Fixtures",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "schedule",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=scores",
+        "text": "Fixtures",
+        "shortText": "Fixtures",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "results",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/team/results/_/id/392/birmingham-city",
+        "text": "Results",
+        "shortText": "Results",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "results",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=scores",
+        "text": "Results",
+        "shortText": "Results",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "standings",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/standings/_/league/eng.2",
+        "text": "Standings",
+        "shortText": "Standings",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "standings",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=standings",
+        "text": "Standings",
+        "shortText": "Standings",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "squad",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/team/squad/_/id/392/birmingham-city",
+        "text": "Squad",
+        "shortText": "Squad",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "squad",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=squad",
+        "text": "Squad",
+        "shortText": "Squad",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "defaultLeague": {
+      "id": "3914",
+      "alternateId": "24",
+      "name": "English League Championship",
+      "abbreviation": "EFL Championship",
+      "shortName": "EFL Championship",
+      "midsizeName": "ENG.2",
+      "slug": "eng.2",
+      "season": {
+        "type": {
+          "hasStandings": true
+        }
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "index",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/league/_/name/eng.2",
+          "text": "Index",
+          "shortText": "Index",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "index",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3914",
+          "text": "Index",
+          "shortText": "Index",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "schedule",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/schedule/_/league/eng.2",
+          "text": "Schedule",
+          "shortText": "Schedule",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "schedule",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3914&section=scores",
+          "text": "Schedule",
+          "shortText": "Schedule",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "standings",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/table/_/league/eng.2",
+          "text": "Standings",
+          "shortText": "Standings",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "standings",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3914&section=standings",
+          "text": "Standings",
+          "shortText": "Standings",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "scores",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/scoreboard/_/league/eng.2",
+          "text": "Scores",
+          "shortText": "Scores",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "scores",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3914&section=scores",
+          "text": "Scores",
+          "shortText": "Scores",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/stats/_/league/eng.2",
+          "text": "Stats",
+          "shortText": "Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:3914&section=stats",
+          "text": "Stats",
+          "shortText": "Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "teams",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/teams/_/league/eng.2",
+          "text": "Teams",
+          "shortText": "Teams",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "logos": [
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500/24.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "lastUpdated": "2019-05-08T16:07Z"
+        },
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500-dark/24.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "lastUpdated": "2019-05-08T16:07Z"
+        }
+      ]
+    },
+    "leagueAbbrev": "eng.2",
+    "nextEvent": [
+      {
+        "id": "401880256",
+        "date": "2026-09-19T14:00Z",
+        "name": "Middlesbrough at Birmingham City",
+        "shortName": "MID @ BIR",
+        "season": {
+          "year": 2026,
+          "displayName": "2026-27 English League Championship"
+        },
+        "seasonType": {
+          "id": "1",
+          "type": 14327,
+          "name": "Regular Season",
+          "abbreviation": "2026-27 English League Championship"
+        },
+        "timeValid": true,
+        "competitions": [
+          {
+            "id": "401880256",
+            "date": "2026-09-19T14:00Z",
+            "attendance": 0,
+            "timeValid": true,
+            "neutralSite": false,
+            "boxscoreAvailable": true,
+            "ticketsAvailable": false,
+            "venue": {
+              "fullName": "St. Andrew's Stadium",
+              "address": {
+                "city": "Birmingham",
+                "country": "England"
+              }
+            },
+            "competitors": [
+              {
+                "id": "392",
+                "type": "team",
+                "order": 0,
+                "homeAway": "home",
+                "winner": false,
+                "team": {
+                  "id": "392",
+                  "location": "Birmingham City",
+                  "nickname": "Blues",
+                  "abbreviation": "BIR",
+                  "displayName": "Birmingham City",
+                  "shortDisplayName": "Birmingham",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/soccer/500/392.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2019-05-08T16:07Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/392.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2019-05-08T16:07Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/club/_/id/392/birmingham-city",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/stats/_/id/392/birmingham-city",
+                      "text": "Stats"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=stats",
+                      "text": "Stats"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/fixtures/_/id/392/birmingham-city",
+                      "text": "Fixtures"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=scores",
+                      "text": "Fixtures"
+                    },
+                    {
+                      "rel": [
+                        "results",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/results/_/id/392/birmingham-city",
+                      "text": "Results"
+                    },
+                    {
+                      "rel": [
+                        "results",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=scores",
+                      "text": "Results"
+                    },
+                    {
+                      "rel": [
+                        "standings",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/standings/_/league/eng.2",
+                      "text": "Standings"
+                    },
+                    {
+                      "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=standings",
+                      "text": "Standings"
+                    },
+                    {
+                      "rel": [
+                        "squad",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/squad/_/id/392/birmingham-city",
+                      "text": "Squad"
+                    },
+                    {
+                      "rel": [
+                        "squad",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:392&section=squad",
+                      "text": "Squad"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "369",
+                "type": "team",
+                "order": 1,
+                "homeAway": "away",
+                "winner": false,
+                "team": {
+                  "id": "369",
+                  "location": "Middlesbrough",
+                  "nickname": "Boro",
+                  "abbreviation": "MID",
+                  "displayName": "Middlesbrough",
+                  "shortDisplayName": "Boro",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2019-05-08T16:07Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/369.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2019-05-08T16:07Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/club/_/id/369/middlesbrough",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/stats/_/id/369/middlesbrough",
+                      "text": "Stats"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:369&section=stats",
+                      "text": "Stats"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/fixtures/_/id/369/middlesbrough",
+                      "text": "Fixtures"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:369&section=scores",
+                      "text": "Fixtures"
+                    },
+                    {
+                      "rel": [
+                        "results",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/results/_/id/369/middlesbrough",
+                      "text": "Results"
+                    },
+                    {
+                      "rel": [
+                        "results",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:369&section=scores",
+                      "text": "Results"
+                    },
+                    {
+                      "rel": [
+                        "standings",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/standings/_/league/eng.2",
+                      "text": "Standings"
+                    },
+                    {
+                      "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:369&section=standings",
+                      "text": "Standings"
+                    },
+                    {
+                      "rel": [
+                        "squad",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/squad/_/id/369/middlesbrough",
+                      "text": "Squad"
+                    },
+                    {
+                      "rel": [
+                        "squad",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:369&section=squad",
+                      "text": "Squad"
+                    }
+                  ]
+                }
+              }
+            ],
+            "notes": [],
+            "odds": [
+              {
+                "awayTeamOdds": {
+                  "favorite": true,
+                  "underdog": false,
+                  "moneyLine": 140,
+                  "spreadOdds": 130.0,
+                  "open": {
+                    "favorite": true,
+                    "pointSpread": {
+                      "alternateDisplayValue": "-0.5",
+                      "american": "-0.5"
+                    },
+                    "spread": {
+                      "value": 2.2,
+                      "displayValue": "6/5",
+                      "alternateDisplayValue": "+120",
+                      "decimal": 2.2,
+                      "fraction": "6/5",
+                      "american": "+120"
+                    },
+                    "moneyLine": {
+                      "value": 2.3,
+                      "displayValue": "13/10",
+                      "alternateDisplayValue": "+130",
+                      "decimal": 2.3,
+                      "fraction": "13/10",
+                      "american": "+130"
+                    }
+                  },
+                  "close": {
+                    "pointSpread": {
+                      "alternateDisplayValue": "-0.5",
+                      "american": "-0.5"
+                    },
+                    "spread": {
+                      "value": 2.3,
+                      "displayValue": "13/10",
+                      "alternateDisplayValue": "+130",
+                      "decimal": 2.3,
+                      "fraction": "13/10",
+                      "american": "+130"
+                    },
+                    "moneyLine": {
+                      "value": 2.4,
+                      "displayValue": "7/5",
+                      "alternateDisplayValue": "+140",
+                      "decimal": 2.4,
+                      "fraction": "7/5",
+                      "american": "+140"
+                    }
+                  },
+                  "current": {
+                    "pointSpread": {
+                      "alternateDisplayValue": "-0.5",
+                      "american": "-0.5"
+                    },
+                    "spread": {
+                      "value": 2.3,
+                      "displayValue": "13/10",
+                      "alternateDisplayValue": "+130",
+                      "decimal": 2.3,
+                      "fraction": "13/10",
+                      "american": "+130"
+                    },
+                    "moneyLine": {
+                      "value": 2.4,
+                      "displayValue": "7/5",
+                      "alternateDisplayValue": "+140",
+                      "decimal": 2.4,
+                      "fraction": "7/5",
+                      "american": "+140"
+                    }
+                  },
+                  "team": {
+                    "id": "369",
+                    "name": "Middlesbrough",
+                    "abbreviation": "MID"
+                  }
+                },
+                "homeTeamOdds": {
+                  "favorite": false,
+                  "underdog": true,
+                  "moneyLine": 180,
+                  "spreadOdds": -180.0,
+                  "open": {
+                    "favorite": false,
+                    "pointSpread": {
+                      "alternateDisplayValue": "+0.5",
+                      "american": "+0.5"
+                    },
+                    "spread": {
+                      "value": 1.57,
+                      "displayValue": "4/7",
+                      "alternateDisplayValue": "-175",
+                      "decimal": 1.57,
+                      "fraction": "4/7",
+                      "american": "-175"
+                    },
+                    "moneyLine": {
+                      "value": 2.9,
+                      "displayValue": "19/10",
+                      "alternateDisplayValue": "+190",
+                      "decimal": 2.9,
+                      "fraction": "19/10",
+                      "american": "+190"
+                    }
+                  },
+                  "close": {
+                    "pointSpread": {
+                      "alternateDisplayValue": "+0.5",
+                      "american": "+0.5"
+                    },
+                    "spread": {
+                      "value": 1.55,
+                      "displayValue": "5/9",
+                      "alternateDisplayValue": "-180",
+                      "decimal": 1.55,
+                      "fraction": "5/9",
+                      "american": "-180"
+                    },
+                    "moneyLine": {
+                      "value": 2.8,
+                      "displayValue": "9/5",
+                      "alternateDisplayValue": "+180",
+                      "decimal": 2.8,
+                      "fraction": "9/5",
+                      "american": "+180"
+                    }
+                  },
+                  "current": {
+                    "pointSpread": {
+                      "alternateDisplayValue": "+0.5",
+                      "american": "+0.5"
+                    },
+                    "spread": {
+                      "value": 1.55,
+                      "displayValue": "5/9",
+                      "alternateDisplayValue": "-180",
+                      "decimal": 1.55,
+                      "fraction": "5/9",
+                      "american": "-180"
+                    },
+                    "moneyLine": {
+                      "value": 2.8,
+                      "displayValue": "9/5",
+                      "alternateDisplayValue": "+180",
+                      "decimal": 2.8,
+                      "fraction": "9/5",
+                      "american": "+180"
+                    }
+                  },
+                  "team": {
+                    "id": "392",
+                    "name": "Birmingham City",
+                    "abbreviation": "BIR"
+                  }
+                },
+                "links": [
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "home",
+                      "desktop",
+                      "bets",
+                      "draftkings"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0ML86334151_1",
+                    "text": "Home Bet",
+                    "shortText": "Home Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "away",
+                      "desktop",
+                      "bets",
+                      "draftkings"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0ML86334151_3",
+                    "text": "Away Bet",
+                    "shortText": "Away Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "draw",
+                      "desktop",
+                      "bets",
+                      "draftkings"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0ML86334151_2",
+                    "text": "Draw Bet",
+                    "shortText": "Draw Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "homeSpread",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0HC86334302P50_1",
+                    "text": "Home Point Spread",
+                    "shortText": "Home Point Spread",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "awaySpread",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0HC86334302N50_3",
+                    "text": "Away Point Spread",
+                    "shortText": "Away Point Spread",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "over",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0OU86334297O250_1",
+                    "text": "Over Odds",
+                    "shortText": "Over Odds",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "under",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0OU86334297U250_3",
+                    "text": "Under Odds",
+                    "shortText": "Under Odds",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "game",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928",
+                    "text": "Game",
+                    "shortText": "Game",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              },
+              {
+                "awayTeamOdds": {
+                  "team": {
+                    "id": "369",
+                    "name": "Middlesbrough",
+                    "abbreviation": "MID"
+                  },
+                  "odds": {
+                    "summary": "6/4",
+                    "value": 2.5,
+                    "handicap": 0.0
+                  }
+                },
+                "homeTeamOdds": {
+                  "team": {
+                    "id": "392",
+                    "name": "Birmingham City",
+                    "abbreviation": "BIR"
+                  },
+                  "odds": {
+                    "summary": "13/8",
+                    "value": 2.625,
+                    "handicap": 0.0
+                  }
+                },
+                "links": [
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "home",
+                      "desktop",
+                      "bets",
+                      "bet-365"
+                    ],
+                    "href": "https://www.bet365.com/dl/sportsbookredirect?affiliate=365_307577&bet=1&bs=201400009-13982429~13/8",
+                    "text": "Home Bet",
+                    "shortText": "Home Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "away",
+                      "desktop",
+                      "bets",
+                      "bet-365"
+                    ],
+                    "href": "https://www.bet365.com/dl/sportsbookredirect?affiliate=365_307577&bet=1&bs=201400009-13982433~6/4",
+                    "text": "Away Bet",
+                    "shortText": "Away Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "draw",
+                      "desktop",
+                      "bets",
+                      "bet-365"
+                    ],
+                    "href": "https://www.bet365.com/dl/sportsbookredirect?affiliate=365_307577&bet=1&bs=201400009-13982432~12/5",
+                    "text": "Draw Bet",
+                    "shortText": "Draw Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              },
+              {
+                "awayTeamOdds": {
+                  "favorite": true,
+                  "underdog": false,
+                  "moneyLine": 145,
+                  "spreadOdds": 140.0,
+                  "open": {
+                    "favorite": true,
+                    "pointSpread": {
+                      "alternateDisplayValue": "-0.5",
+                      "american": "-0.5"
+                    },
+                    "spread": {
+                      "value": 2.25,
+                      "displayValue": "5/4",
+                      "alternateDisplayValue": "+125",
+                      "decimal": 2.25,
+                      "fraction": "5/4",
+                      "american": "+125"
+                    },
+                    "moneyLine": {
+                      "value": 2.35,
+                      "displayValue": "27/20",
+                      "alternateDisplayValue": "+135",
+                      "decimal": 2.35,
+                      "fraction": "27/20",
+                      "american": "+135"
+                    }
+                  },
+                  "current": {
+                    "pointSpread": {
+                      "alternateDisplayValue": "-0.5",
+                      "american": "-0.5"
+                    },
+                    "spread": {
+                      "value": 2.4,
+                      "displayValue": "7/5",
+                      "alternateDisplayValue": "+140",
+                      "decimal": 2.4,
+                      "fraction": "7/5",
+                      "american": "+140"
+                    },
+                    "moneyLine": {
+                      "value": 2.45,
+                      "displayValue": "29/20",
+                      "alternateDisplayValue": "+145",
+                      "decimal": 2.45,
+                      "fraction": "29/20",
+                      "american": "+145"
+                    }
+                  },
+                  "team": {
+                    "id": "369",
+                    "name": "Middlesbrough",
+                    "abbreviation": "MID"
+                  }
+                },
+                "homeTeamOdds": {
+                  "favorite": false,
+                  "underdog": true,
+                  "moneyLine": 170,
+                  "spreadOdds": -210.0,
+                  "open": {
+                    "favorite": false,
+                    "pointSpread": {
+                      "alternateDisplayValue": "+0.5",
+                      "american": "+0.5"
+                    },
+                    "spread": {
+                      "value": 1.54,
+                      "displayValue": "20/37",
+                      "alternateDisplayValue": "-185",
+                      "decimal": 1.54,
+                      "fraction": "20/37",
+                      "american": "-185"
+                    },
+                    "moneyLine": {
+                      "value": 2.75,
+                      "displayValue": "7/4",
+                      "alternateDisplayValue": "+175",
+                      "decimal": 2.75,
+                      "fraction": "7/4",
+                      "american": "+175"
+                    }
+                  },
+                  "current": {
+                    "pointSpread": {
+                      "alternateDisplayValue": "+0.5",
+                      "american": "+0.5"
+                    },
+                    "spread": {
+                      "value": 1.47,
+                      "displayValue": "10/21",
+                      "alternateDisplayValue": "-210",
+                      "decimal": 1.47,
+                      "fraction": "10/21",
+                      "american": "-210"
+                    },
+                    "moneyLine": {
+                      "value": 2.7,
+                      "displayValue": "17/10",
+                      "alternateDisplayValue": "+170",
+                      "decimal": 2.7,
+                      "fraction": "17/10",
+                      "american": "+170"
+                    }
+                  },
+                  "team": {
+                    "id": "392",
+                    "name": "Birmingham City",
+                    "abbreviation": "BIR"
+                  }
+                },
+                "links": [
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "home",
+                      "desktop",
+                      "bets",
+                      "draftkings---live-odds"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0ML86334316_1",
+                    "text": "Home Bet",
+                    "shortText": "Home Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "away",
+                      "desktop",
+                      "bets",
+                      "draftkings---live-odds"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0ML86334316_3",
+                    "text": "Away Bet",
+                    "shortText": "Away Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "draw",
+                      "desktop",
+                      "bets",
+                      "draftkings---live-odds"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0ML86334316_2",
+                    "text": "Draw Bet",
+                    "shortText": "Draw Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "homeSpread",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0HC86334322P50_1",
+                    "text": "Home Point Spread",
+                    "shortText": "Home Point Spread",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "awaySpread",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0HC86334322N50_3",
+                    "text": "Away Point Spread",
+                    "shortText": "Away Point Spread",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "over",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0OU86334321O250_1",
+                    "text": "Over Odds",
+                    "shortText": "Over Odds",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "under",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928%3Foutcomes%3D0OU86334321U250_3",
+                    "text": "Under Odds",
+                    "shortText": "Under Odds",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "game",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34679928",
+                    "text": "Game",
+                    "shortText": "Game",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            ],
+            "broadcasts": [
+              {
+                "type": {
+                  "id": "4",
+                  "shortName": "STREAMING"
+                },
+                "media": {
+                  "shortName": "Paramount+"
+                },
+                "lang": "en",
+                "region": "us"
+              }
+            ],
+            "status": {
+              "clock": 660.0,
+              "addedClock": 0.0,
+              "displayClock": "11'",
+              "period": 1,
+              "type": {
+                "id": "2",
+                "name": "STATUS_IN_PROGRESS",
+                "state": "in",
+                "completed": false,
+                "description": "In Progress",
+                "detail": "11'",
+                "shortDetail": "11'"
+              }
+            }
+          }
+        ],
+        "links": [
+          {
+            "language": "en-US",
+            "rel": [
+              "live",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/match/_/gameId/401880256",
+            "text": "Gamecast",
+            "shortText": "Live",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "live",
+              "sportscenter",
+              "app",
+              "event"
+            ],
+            "href": "sportscenter://x-callback-url/showGame?sportName=soccer&leagueAbbrev=eng.2&gameId=401880256",
+            "text": "Gamecast",
+            "shortText": "Live",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "lineup",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/lineups/_/gameId/401880256",
+            "text": "Lineup",
+            "shortText": "Lineup",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "videos",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/video/_/gameId/401880256",
+            "text": "Videos",
+            "shortText": "Videos",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "lineups",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/lineups?gameId=401880256",
+            "text": "Line-Ups",
+            "shortText": "Line-Ups",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "standings",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/table/_/league/eng.2",
+            "text": "Table",
+            "shortText": "Table",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/odds/_/gameId/401880256",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "mobile",
+              "event"
+            ],
+            "href": "https://m.espn.com/soccer/odds/_/gameId/401880256",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "livestandings",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/table/_/gameId/401880256",
+            "text": "Live Table",
+            "shortText": "Live Table",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "stats",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/matchstats/_/gameId/401880256",
+            "text": "Statistics",
+            "shortText": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "commentary",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/commentary/_/gameId/401880256",
+            "text": "Commentary",
+            "shortText": "Commentary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "bet365",
+              "desktop",
+              "event"
+            ],
+            "href": "http://www.bet365.com/home/?affiliate=365_351846",
+            "text": "Bet 365",
+            "shortText": "Bet 365",
+            "isExternal": true,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "player-stats",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/player-stats/_/gameId/401880256/league/eng.2",
+            "text": "Player Stats",
+            "shortText": "Player Stats",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "team-stats",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/team-stats/_/gameId/401880256/league/eng.2",
+            "text": "Team Stats",
+            "shortText": "Team Stats",
+            "isExternal": false,
+            "isPremium": false
+          }
+        ],
+        "league": {
+          "id": "3914",
+          "alternateId": "24",
+          "name": "English League Championship",
+          "abbreviation": "EFL Championship",
+          "shortName": "EFL Championship",
+          "midsizeName": "ENG.2",
+          "slug": "eng.2",
+          "isTournament": false
+        }
+      }
+    ],
+    "standingSummary": "13th in English League Championship"
+  }
+}
