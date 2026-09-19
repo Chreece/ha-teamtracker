@@ -1,0 +1,1347 @@
+{
+  "team": {
+    "id": "86",
+    "uid": "s:600~t:86",
+    "slug": "esp.real_madrid",
+    "location": "Real Madrid",
+    "name": "Real Madrid",
+    "abbreviation": "RMA",
+    "displayName": "Real Madrid",
+    "shortDisplayName": "Real Madrid",
+    "color": "ffffff",
+    "alternateColor": "1B4D3E",
+    "isActive": true,
+    "logos": [
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "lastUpdated": "2019-05-08T16:07Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/86.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "lastUpdated": "2019-05-08T16:07Z"
+      }
+    ],
+    "record": {
+      "items": [
+        {
+          "description": "Overall Record",
+          "type": "total",
+          "summary": "5-0-1",
+          "stats": [
+            {
+              "name": "gamesPlayed",
+              "value": 6.0
+            },
+            {
+              "name": "losses",
+              "value": 1.0
+            },
+            {
+              "name": "pointDifferential",
+              "value": 11.0
+            },
+            {
+              "name": "points",
+              "value": 15.0
+            },
+            {
+              "name": "pointsAgainst",
+              "value": 6.0
+            },
+            {
+              "name": "pointsFor",
+              "value": 17.0
+            },
+            {
+              "name": "streak",
+              "value": 0.0
+            },
+            {
+              "name": "ties",
+              "value": 0.0
+            },
+            {
+              "name": "wins",
+              "value": 5.0
+            },
+            {
+              "name": "advanced",
+              "value": 0.0
+            },
+            {
+              "name": "awayGamesPlayed",
+              "value": 3.0
+            },
+            {
+              "name": "awayLosses",
+              "value": 1.0
+            },
+            {
+              "name": "awayPointsAgainst",
+              "value": 4.0
+            },
+            {
+              "name": "awayPointsFor",
+              "value": 5.0
+            },
+            {
+              "name": "awayTies",
+              "value": 0.0
+            },
+            {
+              "name": "awayWins",
+              "value": 2.0
+            },
+            {
+              "name": "deductions",
+              "value": 0.0
+            },
+            {
+              "name": "homeGamesPlayed",
+              "value": 3.0
+            },
+            {
+              "name": "homeLosses",
+              "value": 0.0
+            },
+            {
+              "name": "homePointsAgainst",
+              "value": 2.0
+            },
+            {
+              "name": "homePointsFor",
+              "value": 12.0
+            },
+            {
+              "name": "homeTies",
+              "value": 0.0
+            },
+            {
+              "name": "homeWins",
+              "value": 3.0
+            },
+            {
+              "name": "ppg",
+              "value": 0.0
+            },
+            {
+              "name": "rank",
+              "value": 2.0
+            },
+            {
+              "name": "rankChange",
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "groups": {
+      "id": "1"
+    },
+    "links": [
+      {
+        "language": "en-US",
+        "rel": [
+          "clubhouse",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/club/_/id/86/real-madrid",
+        "text": "Clubhouse",
+        "shortText": "Clubhouse",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "stats",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/team/stats/_/id/86/real-madrid",
+        "text": "Stats",
+        "shortText": "Stats",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "stats",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=stats",
+        "text": "Stats",
+        "shortText": "Stats",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "schedule",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/team/fixtures/_/id/86/real-madrid",
+        "text": "Fixtures",
+        "shortText": "Fixtures",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "schedule",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=scores",
+        "text": "Fixtures",
+        "shortText": "Fixtures",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "results",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/team/results/_/id/86/real-madrid",
+        "text": "Results",
+        "shortText": "Results",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "results",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=scores",
+        "text": "Results",
+        "shortText": "Results",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "standings",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/standings/_/league/esp.1",
+        "text": "Standings",
+        "shortText": "Standings",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "standings",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=standings",
+        "text": "Standings",
+        "shortText": "Standings",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "squad",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/soccer/team/squad/_/id/86/real-madrid",
+        "text": "Squad",
+        "shortText": "Squad",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "squad",
+          "sportscenter",
+          "app",
+          "team"
+        ],
+        "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=squad",
+        "text": "Squad",
+        "shortText": "Squad",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "defaultLeague": {
+      "id": "740",
+      "alternateId": "15",
+      "name": "Spanish LALIGA",
+      "abbreviation": "LALIGA",
+      "shortName": "LALIGA",
+      "midsizeName": "ESP.1",
+      "slug": "esp.1",
+      "season": {
+        "type": {
+          "hasStandings": true
+        }
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "index",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/league/_/name/esp.1",
+          "text": "Index",
+          "shortText": "Index",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "index",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:740",
+          "text": "Index",
+          "shortText": "Index",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "schedule",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/schedule/_/league/esp.1",
+          "text": "Schedule",
+          "shortText": "Schedule",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "schedule",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:740&section=scores",
+          "text": "Schedule",
+          "shortText": "Schedule",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "standings",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/table/_/league/esp.1",
+          "text": "Standings",
+          "shortText": "Standings",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "standings",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:740&section=standings",
+          "text": "Standings",
+          "shortText": "Standings",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "scores",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/scoreboard/_/league/esp.1",
+          "text": "Scores",
+          "shortText": "Scores",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "scores",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:740&section=scores",
+          "text": "Scores",
+          "shortText": "Scores",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/stats/_/league/esp.1",
+          "text": "Stats",
+          "shortText": "Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "sportscenter",
+            "app",
+            "league"
+          ],
+          "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~l:740&section=stats",
+          "text": "Stats",
+          "shortText": "Stats",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "teams",
+            "desktop",
+            "league"
+          ],
+          "href": "https://www.espn.com/soccer/teams/_/league/esp.1",
+          "text": "Teams",
+          "shortText": "Teams",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "logos": [
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "lastUpdated": "2025-07-30T16:01Z"
+        },
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500-dark/15.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "lastUpdated": "2025-07-30T13:25Z"
+        }
+      ]
+    },
+    "leagueAbbrev": "esp.1",
+    "nextEvent": [
+      {
+        "id": "401882865",
+        "date": "2026-09-20T14:15Z",
+        "name": "Real Madrid at Atl\u00e9tico Madrid",
+        "shortName": "RMA @ ATM",
+        "season": {
+          "year": 2026,
+          "displayName": "2026-27 Spanish LALIGA"
+        },
+        "seasonType": {
+          "id": "1",
+          "type": 14357,
+          "name": "2026-27 LALIGA",
+          "abbreviation": "2026-27 LALIGA"
+        },
+        "timeValid": true,
+        "competitions": [
+          {
+            "id": "401882865",
+            "date": "2026-09-20T14:15Z",
+            "attendance": 0,
+            "timeValid": true,
+            "neutralSite": false,
+            "boxscoreAvailable": true,
+            "ticketsAvailable": true,
+            "venue": {
+              "fullName": "Riyadh Air Metropolitano",
+              "address": {
+                "city": "Madrid",
+                "country": "Spain"
+              }
+            },
+            "competitors": [
+              {
+                "id": "1068",
+                "type": "team",
+                "order": 0,
+                "homeAway": "home",
+                "winner": false,
+                "team": {
+                  "id": "1068",
+                  "location": "Atl\u00e9tico Madrid",
+                  "abbreviation": "ATM",
+                  "displayName": "Atl\u00e9tico Madrid",
+                  "shortDisplayName": "Atl\u00e9tico",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2025-09-19T20:43Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/1068.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2025-09-19T20:42Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/club/_/id/1068/atletico-madrid",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/stats/_/id/1068/atletico-madrid",
+                      "text": "Stats"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:1068&section=stats",
+                      "text": "Stats"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/fixtures/_/id/1068/atletico-madrid",
+                      "text": "Fixtures"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:1068&section=scores",
+                      "text": "Fixtures"
+                    },
+                    {
+                      "rel": [
+                        "results",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/results/_/id/1068/atletico-madrid",
+                      "text": "Results"
+                    },
+                    {
+                      "rel": [
+                        "results",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:1068&section=scores",
+                      "text": "Results"
+                    },
+                    {
+                      "rel": [
+                        "standings",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/standings/_/league/esp.1",
+                      "text": "Standings"
+                    },
+                    {
+                      "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:1068&section=standings",
+                      "text": "Standings"
+                    },
+                    {
+                      "rel": [
+                        "squad",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/squad/_/id/1068/atletico-madrid",
+                      "text": "Squad"
+                    },
+                    {
+                      "rel": [
+                        "squad",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:1068&section=squad",
+                      "text": "Squad"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "86",
+                "type": "team",
+                "order": 1,
+                "homeAway": "away",
+                "winner": false,
+                "team": {
+                  "id": "86",
+                  "location": "Real Madrid",
+                  "abbreviation": "RMA",
+                  "displayName": "Real Madrid",
+                  "shortDisplayName": "Real Madrid",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2019-05-08T16:07Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/86.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2019-05-08T16:07Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/club/_/id/86/real-madrid",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/stats/_/id/86/real-madrid",
+                      "text": "Stats"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=stats",
+                      "text": "Stats"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/fixtures/_/id/86/real-madrid",
+                      "text": "Fixtures"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=scores",
+                      "text": "Fixtures"
+                    },
+                    {
+                      "rel": [
+                        "results",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/results/_/id/86/real-madrid",
+                      "text": "Results"
+                    },
+                    {
+                      "rel": [
+                        "results",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=scores",
+                      "text": "Results"
+                    },
+                    {
+                      "rel": [
+                        "standings",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/standings/_/league/esp.1",
+                      "text": "Standings"
+                    },
+                    {
+                      "rel": [
+                        "standings",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=standings",
+                      "text": "Standings"
+                    },
+                    {
+                      "rel": [
+                        "squad",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/soccer/team/squad/_/id/86/real-madrid",
+                      "text": "Squad"
+                    },
+                    {
+                      "rel": [
+                        "squad",
+                        "sportscenter",
+                        "app",
+                        "team"
+                      ],
+                      "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:86&section=squad",
+                      "text": "Squad"
+                    }
+                  ]
+                }
+              }
+            ],
+            "notes": [],
+            "odds": [
+              {
+                "awayTeamOdds": {
+                  "favorite": true,
+                  "underdog": false,
+                  "moneyLine": 100,
+                  "spreadOdds": -115.0,
+                  "open": {
+                    "favorite": true,
+                    "pointSpread": {
+                      "alternateDisplayValue": "-0.5",
+                      "american": "-0.5"
+                    },
+                    "spread": {
+                      "value": 1.83,
+                      "displayValue": "5/6",
+                      "alternateDisplayValue": "-120",
+                      "decimal": 1.83,
+                      "fraction": "5/6",
+                      "american": "-120"
+                    },
+                    "moneyLine": {
+                      "value": 1.9,
+                      "displayValue": "10/11",
+                      "alternateDisplayValue": "-110",
+                      "decimal": 1.9,
+                      "fraction": "10/11",
+                      "american": "-110"
+                    }
+                  },
+                  "current": {
+                    "pointSpread": {
+                      "alternateDisplayValue": "-0.5",
+                      "american": "-0.5"
+                    },
+                    "spread": {
+                      "value": 1.86,
+                      "displayValue": "20/23",
+                      "alternateDisplayValue": "-115",
+                      "decimal": 1.86,
+                      "fraction": "20/23",
+                      "american": "-115"
+                    },
+                    "moneyLine": {
+                      "value": 2.0,
+                      "displayValue": "1/1",
+                      "alternateDisplayValue": "+100",
+                      "decimal": 2.0,
+                      "fraction": "1/1",
+                      "american": "+100"
+                    }
+                  },
+                  "team": {
+                    "id": "86",
+                    "name": "Real Madrid",
+                    "abbreviation": "RMA"
+                  }
+                },
+                "homeTeamOdds": {
+                  "favorite": false,
+                  "underdog": true,
+                  "moneyLine": 255,
+                  "spreadOdds": -125.0,
+                  "open": {
+                    "favorite": false,
+                    "pointSpread": {
+                      "alternateDisplayValue": "+0.5",
+                      "american": "+0.5"
+                    },
+                    "spread": {
+                      "value": 1.83,
+                      "displayValue": "5/6",
+                      "alternateDisplayValue": "-120",
+                      "decimal": 1.83,
+                      "fraction": "5/6",
+                      "american": "-120"
+                    },
+                    "moneyLine": {
+                      "value": 3.9,
+                      "displayValue": "29/10",
+                      "alternateDisplayValue": "+290",
+                      "decimal": 3.9,
+                      "fraction": "29/10",
+                      "american": "+290"
+                    }
+                  },
+                  "current": {
+                    "pointSpread": {
+                      "alternateDisplayValue": "+0.5",
+                      "american": "+0.5"
+                    },
+                    "spread": {
+                      "value": 1.8,
+                      "displayValue": "4/5",
+                      "alternateDisplayValue": "-125",
+                      "decimal": 1.8,
+                      "fraction": "4/5",
+                      "american": "-125"
+                    },
+                    "moneyLine": {
+                      "value": 3.55,
+                      "displayValue": "51/20",
+                      "alternateDisplayValue": "+255",
+                      "decimal": 3.55,
+                      "fraction": "51/20",
+                      "american": "+255"
+                    }
+                  },
+                  "team": {
+                    "id": "1068",
+                    "name": "Atl\u00e9tico Madrid",
+                    "abbreviation": "ATM"
+                  }
+                },
+                "links": [
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "home",
+                      "desktop",
+                      "bets",
+                      "draftkings"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34668179%3Foutcomes%3D0ML86301021_1",
+                    "text": "Home Bet",
+                    "shortText": "Home Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "away",
+                      "desktop",
+                      "bets",
+                      "draftkings"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34668179%3Foutcomes%3D0ML86301021_3",
+                    "text": "Away Bet",
+                    "shortText": "Away Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "draw",
+                      "desktop",
+                      "bets",
+                      "draftkings"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34668179%3Foutcomes%3D0ML86301021_2",
+                    "text": "Draw Bet",
+                    "shortText": "Draw Bet",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "homeSpread",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34668179%3Foutcomes%3D0HC86302394P50_1",
+                    "text": "Home Point Spread",
+                    "shortText": "Home Point Spread",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "awaySpread",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34668179%3Foutcomes%3D0HC86302394N50_3",
+                    "text": "Away Point Spread",
+                    "shortText": "Away Point Spread",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "over",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34668179%3Foutcomes%3D0OU86302389O350_1",
+                    "text": "Over Odds",
+                    "shortText": "Over Odds",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "under",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34668179%3Foutcomes%3D0OU86302389U350_3",
+                    "text": "Under Odds",
+                    "shortText": "Under Odds",
+                    "isExternal": true,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "game",
+                      "desktop",
+                      "bets"
+                    ],
+                    "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34668179",
+                    "text": "Game",
+                    "shortText": "Game",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            ],
+            "broadcasts": [
+              {
+                "type": {
+                  "id": "1",
+                  "shortName": "TV"
+                },
+                "media": {
+                  "shortName": "ESPN2",
+                  "logo": "https://a.espncdn.com/guid/4bab8fd8-cd13-379f-9558-c3614851bf91/logos/default.png",
+                  "darkLogo": ""
+                },
+                "lang": "en",
+                "region": "us"
+              },
+              {
+                "type": {
+                  "id": "1",
+                  "shortName": "TV"
+                },
+                "media": {
+                  "shortName": "ESPN Deportes",
+                  "logo": "https://a.espncdn.com/guid/58f5b8d0-704b-35dc-b6a6-b32e0e123050/logos/default.png",
+                  "darkLogo": "https://a.espncdn.com/guid/58f5b8d0-704b-35dc-b6a6-b32e0e123050/logos/default-dark.png"
+                },
+                "lang": "en",
+                "region": "us"
+              },
+              {
+                "type": {
+                  "id": "4",
+                  "shortName": "STREAMING"
+                },
+                "market": {
+                  "id": "1",
+                  "type": "National"
+                },
+                "media": {
+                  "shortName": "ESPN+",
+                  "logo": "https://a.espncdn.com/guid/322a7e47-3cdb-3b5c-ab1b-678e1f2c27e5/logos/default.png",
+                  "darkLogo": "https://a.espncdn.com/guid/322a7e47-3cdb-3b5c-ab1b-678e1f2c27e5/logos/default-dark.png"
+                },
+                "lang": "en",
+                "region": "us"
+              }
+            ],
+            "tickets": [
+              {
+                "id": "7236407",
+                "summary": "Tickets as low as $497",
+                "description": "Atletico Madrid vs Real Madrid",
+                "maxPrice": 7583.0,
+                "startingPrice": 497.0,
+                "numberAvailable": 168,
+                "totalPostings": 46,
+                "links": [
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "event"
+                    ],
+                    "href": "https://www.vividseats.com/atletico-madrid-tickets-estadio-vicente-calderon---madrid-9-20-2026--sports-soccer/production/7236407?wsUser=717"
+                  },
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "venue"
+                    ],
+                    "href": "https://www.vividseats.com/venues/riyadh-air-metropolitano-tickets.html?wsUser=717"
+                  }
+                ]
+              }
+            ],
+            "status": {
+              "clock": 0.0,
+              "addedClock": 0.0,
+              "displayClock": "0'",
+              "period": 0,
+              "type": {
+                "id": "1",
+                "name": "STATUS_SCHEDULED",
+                "state": "pre",
+                "completed": false,
+                "description": "Scheduled",
+                "detail": "Sun, September 20th at 10:15 AM EDT",
+                "shortDetail": "9/20 - 10:15 AM EDT"
+              }
+            }
+          }
+        ],
+        "links": [
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/match/_/gameId/401882865/real-madrid-atletico-madrid",
+            "text": "Summary",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "mobile",
+              "event"
+            ],
+            "href": "https://m.espn.com/soccer/match?gameId=401882865&action=summary",
+            "text": "Summary",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "sportscenter",
+              "app",
+              "event"
+            ],
+            "href": "sportscenter://x-callback-url/showGame?sportName=soccer&leagueAbbrev=esp.1&gameId=401882865",
+            "text": "Summary",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "videos",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/video/_/gameId/401882865",
+            "text": "Videos",
+            "shortText": "Videos",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "watchespn",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/watch/?gameId=401882865&sourceLang=en",
+            "text": "WatchESPN",
+            "shortText": "WatchESPN",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "watchespn",
+              "app",
+              "event"
+            ],
+            "href": "watchespn://showEvent?gameId=401882865&sourceLang=en",
+            "text": "WatchESPN",
+            "shortText": "WatchESPN",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "standings",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/table/_/league/esp.1",
+            "text": "Table",
+            "shortText": "Table",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/odds/_/gameId/401882865",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "mobile",
+              "event"
+            ],
+            "href": "https://m.espn.com/soccer/odds/_/gameId/401882865",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "livestandings",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/table/_/gameId/401882865",
+            "text": "Live Table",
+            "shortText": "Live Table",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "stats",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/matchstats/_/gameId/401882865",
+            "text": "Statistics",
+            "shortText": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "commentary",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/commentary/_/gameId/401882865",
+            "text": "Commentary",
+            "shortText": "Commentary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "bet365",
+              "desktop",
+              "event"
+            ],
+            "href": "http://www.bet365.com/home/?affiliate=365_351846",
+            "text": "Bet 365",
+            "shortText": "Bet 365",
+            "isExternal": true,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "player-stats",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/player-stats/_/gameId/401882865/league/esp.1",
+            "text": "Player Stats",
+            "shortText": "Player Stats",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "team-stats",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/soccer/team-stats/_/gameId/401882865/league/esp.1",
+            "text": "Team Stats",
+            "shortText": "Team Stats",
+            "isExternal": false,
+            "isPremium": false
+          }
+        ],
+        "league": {
+          "id": "740",
+          "alternateId": "15",
+          "name": "Spanish LALIGA",
+          "abbreviation": "LALIGA",
+          "shortName": "LALIGA",
+          "midsizeName": "ESP.1",
+          "slug": "esp.1",
+          "isTournament": false
+        }
+      }
+    ],
+    "standingSummary": "2nd in Spanish LALIGA"
+  }
+}
